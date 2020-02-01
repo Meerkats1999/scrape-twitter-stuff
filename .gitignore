@@ -1,0 +1,8 @@
+#Environment
+env/
+
+#output
+output/
+
+#vscode
+.vscode/
